@@ -1,0 +1,1560 @@
+[28-May-2021 12:41:20 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 39
+[28-May-2021 12:41:20 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 40
+[28-May-2021 12:41:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:43
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:44:19 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 39
+[28-May-2021 12:44:19 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 40
+[28-May-2021 12:44:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:43
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:44:20 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 39
+[28-May-2021 12:44:20 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 40
+[28-May-2021 12:44:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:43
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:44:21 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 39
+[28-May-2021 12:44:21 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 40
+[28-May-2021 12:44:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:43
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:44:21 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 39
+[28-May-2021 12:44:21 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 40
+[28-May-2021 12:44:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:43
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:44:21 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 39
+[28-May-2021 12:44:21 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 40
+[28-May-2021 12:44:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:43
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:48:33 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:48:33 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:48:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:46
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 46
+[28-May-2021 12:50:43 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:50:43 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:50:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:46
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 46
+[28-May-2021 12:50:44 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:50:44 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:50:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:46
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 46
+[28-May-2021 12:51:40 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:51:40 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:51:40 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:51:40 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:51:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:46
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 46
+[28-May-2021 12:51:41 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:51:41 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:51:41 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:51:41 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:51:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:46
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 46
+[28-May-2021 12:51:42 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:51:42 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:51:42 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:51:42 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:51:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:46
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 46
+[28-May-2021 12:54:40 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 42
+[28-May-2021 12:54:40 America/New_York] PHP Notice:  Undefined variable: dbh in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 43
+[28-May-2021 12:54:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:46
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(9): Conexion->DETC_DB('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 46
+[28-May-2021 12:55:59 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 48
+[28-May-2021 12:57:10 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 48
+[28-May-2021 14:37:29 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'SCALA_SERVER.SCA_USER' doesn't exist in /home/scalasof/public_html/SCA_SERVER/class/Core.php:29
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(29): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(15): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Core.php on line 29
+[28-May-2021 14:42:21 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:52
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(43): Conexion->DETC_DB_WithBlinding('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(14): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 52
+[28-May-2021 14:42:22 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:52
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(43): Conexion->DETC_DB_WithBlinding('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(14): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 52
+[28-May-2021 14:43:55 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:52
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(43): Conexion->DETC_DB_WithBlinding('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(15): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 52
+[28-May-2021 14:45:52 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:52
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(43): Conexion->DETC_DB_WithBlinding('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(15): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 52
+[28-May-2021 14:45:54 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:52
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(43): Conexion->DETC_DB_WithBlinding('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(15): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 52
+[28-May-2021 14:45:58 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:52
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(43): Conexion->DETC_DB_WithBlinding('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(15): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 52
+[28-May-2021 14:46:46 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:52
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Core.php(43): Conexion->DETC_DB_WithBlinding('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(15): Core->ValidateUser('EMPLY', '41bf09f68a03482...')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 52
+[28-May-2021 14:47:59 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:47
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/SCA_USERS.php(30): Conexion->DETC_DB('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(17): SCA_USERS->__construct('1')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 47
+[28-May-2021 14:48:15 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:47
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/SCA_USERS.php(30): Conexion->DETC_DB('SELECT * FROM S...')
+#1 /home/scalasof/public_html/SCA_SERVER/Get.Emp.login.php(17): SCA_USERS->__construct('1')
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 47
+[28-May-2021 17:06:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'xmlapi' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:17
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(19): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 17
+[28-May-2021 17:06:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'xmlapi' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:17
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(19): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 17
+[28-May-2021 17:06:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'xmlapi' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:17
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(19): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 17
+[28-May-2021 17:06:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'xmlapi' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:17
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(19): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 17
+[28-May-2021 17:06:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'xmlapi' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:17
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(19): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 17
+[28-May-2021 17:06:50 America/New_York] PHP Fatal error:  Uncaught Exception: No host defined in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:237
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(17): xmlapi->__construct(false)
+#1 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 237
+[28-May-2021 17:08:55 America/New_York] PHP Fatal error:  Uncaught Exception: No host defined in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:237
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(17): xmlapi->__construct(false)
+#1 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#2 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 237
+[28-May-2021 17:09:11 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:11 America/New_York] DATA: 
+[28-May-2021 17:09:11 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:12 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:12 America/New_York] Some error message here
+[28-May-2021 17:09:13 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:13 America/New_York] DATA: 
+[28-May-2021 17:09:13 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:13 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:13 America/New_York] Some error message here
+[28-May-2021 17:09:19 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:19 America/New_York] DATA: 
+[28-May-2021 17:09:19 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:19 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:19 America/New_York] Some error message here
+[28-May-2021 17:09:20 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:20 America/New_York] DATA: 
+[28-May-2021 17:09:20 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:20 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:20 America/New_York] Some error message here
+[28-May-2021 17:09:21 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:21 America/New_York] DATA: 
+[28-May-2021 17:09:21 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:21 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:21 America/New_York] Some error message here
+[28-May-2021 17:09:35 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:35 America/New_York] DATA: 
+[28-May-2021 17:09:35 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:35 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:35 America/New_York] Some error message here
+[28-May-2021 17:09:35 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:35 America/New_York] DATA: 
+[28-May-2021 17:09:35 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:35 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:35 America/New_York] Some error message here
+[28-May-2021 17:09:36 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:36 America/New_York] DATA: 
+[28-May-2021 17:09:36 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:36 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:36 America/New_York] Some error message here
+[28-May-2021 17:09:38 America/New_York] URL: http://localhost:2082/xml-api/listzones
+[28-May-2021 17:09:38 America/New_York] DATA: 
+[28-May-2021 17:09:38 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:09:38 America/New_York] RESPONSE:
+ 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+    <meta name="google" content="notranslate" />
+    <meta name="apple-itunes-app" content="app-id=1188352635" />
+    <title>Error</title>
+    <link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC" type="image/x-icon" />
+
+    <!-- EXTERNAL CSS -->
+    <link href="/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css" rel="stylesheet" type="text/css" />
+    <link href="/cPanel_magic_revision_1616706804/unprotected/cpanel/style_v2_optimized.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+/*
+  This css is included in the base template in case the css cannot be loaded because of access restrictions
+  If this css is updated, please update securitypolicy_header.html.tmpl as well
+*/
+.copyright {
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTlwdCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAzNTkgMjQwIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0xMjMgMGgyMzUuMzd2MjQwSDEyM3ptMCAwIi8+PC9jbGlwUGF0aD48L2RlZnM+PHBhdGggZD0iTTg5LjY5IDU5LjEwMmg2Ny44MDJsLTEwLjUgNDAuMmMtMS42MDUgNS42LTQuNjA1IDEwLjEtOSAxMy41LTQuNDAyIDMuNC05LjUwNCA1LjA5Ni0xNS4zIDUuMDk2aC0zMS41Yy03LjIgMC0xMy41NSAyLjEwMi0xOS4wNSA2LjMtNS41MDUgNC4yLTkuMzUzIDkuOTA0LTExLjU1MiAxNy4xMDMtMS40IDUuNDAzLTEuNTUgMTAuNS0uNDUgMTUuMzAyIDEuMDk4IDQuNzk2IDMuMDQ3IDkuMDUgNS44NTIgMTIuNzUgMi43OTcgMy43MDMgNi40IDYuNjUyIDEwLjc5NyA4Ljg1IDQuMzk3IDIuMiA5LjE5OCAzLjI5OCAxNC40IDMuMjk4aDE5LjJjMy42MDIgMCA2LjU0NyAxLjQ1MyA4Ljg1MiA0LjM1MiAyLjI5NyAyLjkwMiAyLjk0NSA2LjE0OCAxLjk1IDkuNzVsLTEyIDQ0LjM5OGgtMjFjLTE0LjQwMyAwLTI3LjY1My0zLjE0OC0zOS43NS05LjQ1LTEyLjEwMi02LjMtMjIuMTUzLTE0LjY0OC0zMC4xNTMtMjUuMDUtOC0xMC4zOTUtMTMuNDU0LTIyLjI0Ni0xNi4zNS0zNS41NDctMi45LTEzLjMtMi41NS0yNi45NSAxLjA1Mi00MC45NTNsMS4yLTQuNWMyLjU5Ny05LjYwMiA2LjY0OC0xOC40NSAxMi4xNDgtMjYuNTUgNS41LTguMDk4IDEyLTE1IDE5LjUtMjAuNyA3LjUtNS43IDE1Ljg1LTEwLjE0OCAyNS4wNS0xMy4zNTIgOS4yLTMuMTk1IDE4Ljc5Ny00Ljc5NiAyOC44LTQuNzk2IiBmaWxsPSIjZmY2YzJjIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMTIzLjg5IDI0MEwxODIuOTkgMTguNjAyYzEuNTk4LTUuNTk4IDQuNTk4LTEwLjA5OCA5LTEzLjVDMTk2LjM4OCAxLjcgMjAxLjQ4NCAwIDIwNy4yODggMGg2Mi43YzE0LjQwMyAwIDI3LjY1IDMuMTQ4IDM5Ljc1IDkuNDUgMTIuMTAyIDYuMyAyMi4xNTMgMTQuNjU1IDMwLjE1MyAyNS4wNSA3Ljk5NyAxMC40MDIgMTMuNSAyMi4yNTQgMTYuNSAzNS41NSAzIDEzLjMwNSAyLjU5NCAyNi45NTQtMS4yMDIgNDAuOTVsLTEuMiA0LjVjLTIuNTk3IDkuNjAyLTYuNTk3IDE4LjQ1LTEyIDI2LjU1LTUuMzk4IDguMDk4LTExLjg0NyAxNS4wNTItMTkuMzQ3IDIwLjg0OC03LjUgNS44MDUtMTUuODU1IDEwLjMwNS0yNS4wNSAxMy41LTkuMiAzLjIwNC0xOC44MDUgNC44MDUtMjguODA1IDQuODA1aC01NC4yOTdsMTAuOC00MC41YzEuNi01LjQwMiA0LjYtOS44IDktMTMuMjAzIDQuMzk2LTMuMzk4IDkuNDk3LTUuMTAyIDE1LjMwMi01LjEwMmgxNy4zOThjNy4yIDAgMTMuNjUzLTIuMiAxOS4zNTItNi41OTcgNS42OTUtNC4zOTggOS40NDUtMTAuMDk3IDExLjI1LTE3LjEgMS4zOTQtNC45OTcgMS41NDctOS45LjQ0NS0xNC43LTEuMS00LjgtMy4wNS05LjA0Ny01Ljg0OC0xMi43NS0yLjgtMy42OTUtNi40MDItNi42OTUtMTAuNzk2LTktNC40MDYtMi4yOTctOS4yMDYtMy40NS0xNC40MDItMy40NUgyMzMuMzlsLTQzLjggMTYyLjkwM2MtMS42MDYgNS40LTQuNjA2IDkuNzk3LTkgMTMuMTk1LTQuNDAzIDMuNDA3LTkuNDA2IDUuMTAyLTE1IDUuMTAyaC00MS43IiBmaWxsPSIjZmY2YzJjIi8+PC9nPjwvc3ZnPgo=) no-repeat scroll center top transparent;
+  background-size: 25px auto;
+}
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+        img {
+            behavior: url(/cPanel_magic_revision_1453255723/unprotected/cp_pngbehavior_login.htc);
+        }
+    </style>
+    <![endif]-->
+
+    <script>
+    window.DOM = { get: function(id) { return document.getElementById(id) } };
+    </script>
+</head>
+<body class="">
+
+
+
+
+    <p class="logo"><img class="main-logo" src="/cPanel_magic_revision_1458712460/unprotected/cpanel/images/cpanel-logo.svg" alt="logo"></p>
+
+
+
+<div class="error_notice">
+    <div id="error-wrapper">
+        <div id="error_msg_contents">
+            <h2>HTTP error 404</h2>
+    <p>The requested page was not found.</p>
+    <h2>Possible reasons why you are seeing this page:</h2>
+    <ul>
+        <li>A bookmarked URL may have changed since you last visited.</li>
+        <li>The URL was entered incorrectly.</li>
+        <li>The URL was entered with inaccurate capitalization (URLs are <a href="http://wikipedia.org/wiki/Case_sensitivity">case sensitive</a>).</li>
+    </ul>
+    <p>Please re-check the URL you are trying to reach. (<a href="javascript:history.back()">Go Back</a>)</p>
+
+        </div>
+    </div>
+</div>
+    <div class="copyright">Copyright© 2021 cPanel, L.L.C.
+    <br /><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
+</body>
+
+</html>
+
+[28-May-2021 17:09:38 America/New_York] Some error message here
+[28-May-2021 17:19:11 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:11 America/New_York] DATA: 
+[28-May-2021 17:19:11 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:12 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:12 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:12 America/New_York] DATA: 
+[28-May-2021 17:19:12 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:12 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:38 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:38 America/New_York] DATA: 
+[28-May-2021 17:19:38 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:38 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:39 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:39 America/New_York] DATA: 
+[28-May-2021 17:19:39 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:39 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:40 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:40 America/New_York] DATA: 
+[28-May-2021 17:19:40 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:40 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:44 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:44 America/New_York] DATA: 
+[28-May-2021 17:19:44 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:44 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:45 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:45 America/New_York] DATA: 
+[28-May-2021 17:19:45 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:45 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:45 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:45 America/New_York] DATA: 
+[28-May-2021 17:19:45 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:45 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:47 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:47 America/New_York] DATA: 
+[28-May-2021 17:19:47 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:47 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:48 America/New_York] URL: http://localhos:2082/xml-api/listzones
+[28-May-2021 17:19:48 America/New_York] DATA: 
+[28-May-2021 17:19:48 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2Y6V3N3dTg5V1k3RTkrdS0=
+
+
+[28-May-2021 17:19:48 America/New_York] PHP Fatal error:  Uncaught Exception: curl_exec threw error "Could not resolve host: localhos" for http://localhos:2082/xml-api/listzones? in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php:758
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(676): xmlapi->curl_query('http://localhos...', '', 'Authorization: ...')
+#1 /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php(1407): xmlapi->xmlapi_query('listzones')
+#2 /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php(24): xmlapi->listzones()
+#3 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#4 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/dependecies/xmlapi.php on line 758
+[28-May-2021 17:19:48 America/New_York] URL: http://scala-soft.com.ve:2082/xml-api/listzones
+[28-May-2021 17:19:48 America/New_York] DATA: 
+[28-May-2021 17:19:48 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2ZzOldzd3U4OVdZN0U5K3Ut
+
+
+[28-May-2021 17:19:48 America/New_York] RESPONSE:
+ <?xml version="1.0" ?>
+<cpanelresult>
+    <error>Access denied</error>
+    <data>
+        <result>0</result>
+        <reason>Access denied</reason>
+    </data>
+</cpanelresult>
+
+[28-May-2021 17:19:48 America/New_York] SimpleXML var_dump:
+SimpleXMLElement Object
+(
+    [error] => Access denied
+    [data] => SimpleXMLElement Object
+        (
+            [result] => 0
+            [reason] => Access denied
+        )
+
+)
+
+[28-May-2021 17:19:50 America/New_York] URL: http://scala-soft.com.ve:2082/xml-api/listzones
+[28-May-2021 17:19:50 America/New_York] DATA: 
+[28-May-2021 17:19:50 America/New_York] Authentication Header: Authorization: Basic c2NhbGFzb2ZzOldzd3U4OVdZN0U5K3Ut
+
+
+[28-May-2021 17:19:50 America/New_York] RESPONSE:
+ <?xml version="1.0" ?>
+<cpanelresult>
+    <error>Access denied</error>
+    <data>
+        <result>0</result>
+        <reason>Access denied</reason>
+    </data>
+</cpanelresult>
+
+[28-May-2021 17:19:50 America/New_York] SimpleXML var_dump:
+SimpleXMLElement Object
+(
+    [error] => Access denied
+    [data] => SimpleXMLElement Object
+        (
+            [result] => 0
+            [reason] => Access denied
+        )
+
+)
+
+[28-May-2021 17:29:57 America/Caracas] PHP Notice:  Undefined property: ErrorHandle::$codError in /home/scalasof/public_html/SCA_SERVER/class/ErrorHandle.php on line 14
+[28-May-2021 17:30:22 America/Caracas] PHP Notice:  Undefined property: ErrorHandle::$codError in /home/scalasof/public_html/SCA_SERVER/class/ErrorHandle.php on line 14
+[28-May-2021 17:30:25 America/Caracas] PHP Notice:  Undefined property: ErrorHandle::$codError in /home/scalasof/public_html/SCA_SERVER/class/ErrorHandle.php on line 14
+[28-May-2021 17:30:26 America/Caracas] PHP Notice:  Undefined property: ErrorHandle::$codError in /home/scalasof/public_html/SCA_SERVER/class/ErrorHandle.php on line 14
+[28-May-2021 17:30:26 America/Caracas] PHP Notice:  Undefined property: ErrorHandle::$codError in /home/scalasof/public_html/SCA_SERVER/class/ErrorHandle.php on line 14
+[28-May-2021 17:30:27 America/Caracas] PHP Notice:  Undefined property: ErrorHandle::$codError in /home/scalasof/public_html/SCA_SERVER/class/ErrorHandle.php on line 14
+[28-May-2021 17:34:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:14
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 14
+[28-May-2021 17:41:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:14
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 14
+[28-May-2021 17:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:14
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 14
+[28-May-2021 17:41:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:14
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 14
+[28-May-2021 17:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:14
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 14
+[28-May-2021 17:41:11 America/New_York] PHP Warning:  include_once(src/cPanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:41:11 America/New_York] PHP Warning:  include_once(): Failed opening 'src/cPanel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:41:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:16
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 16
+[28-May-2021 17:42:53 America/New_York] PHP Warning:  include_once(src/cPanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:42:53 America/New_York] PHP Warning:  include_once(): Failed opening 'src/cPanel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:42:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:16
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 16
+[28-May-2021 17:42:54 America/New_York] PHP Warning:  include_once(src/cPanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:42:54 America/New_York] PHP Warning:  include_once(): Failed opening 'src/cPanel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:42:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:16
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 16
+[28-May-2021 17:42:55 America/New_York] PHP Warning:  include_once(src/cPanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:42:55 America/New_York] PHP Warning:  include_once(): Failed opening 'src/cPanel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:42:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CPANEL' not found in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php:16
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/TestConexion.php(21): DnsSubdominio->SetSubdomain()
+#1 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 16
+[28-May-2021 17:42:55 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 17:42:55 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:06:49 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:06:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:33 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:34 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:34 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:34 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:37 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:38 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:38 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:38 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:39 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:39 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:40 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:40 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:41 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:41 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:42 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:42 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:42 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:42 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:42 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:42 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:43 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:43 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:43 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:44 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:44 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:45 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:45 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:46 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/live.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:10:46 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/live.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/class/DnsSubdominio.php on line 8
+[28-May-2021 18:14:40 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 18:14:40 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 18:14:45 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 18:14:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 18:14:45 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 18:14:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 18:14:45 America/New_York] PHP Warning:  require_once(/usr/local/cpanel/php/cpanel.php): failed to open stream: No such file or directory in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 18:14:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/usr/local/cpanel/php/cpanel.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/scalasof/public_html/SCA_SERVER/TestConexion.live.php on line 7
+[28-May-2021 19:32:23 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:32:59 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:32:59 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:00 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:00 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:01 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:01 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:02 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:02 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:03 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:03 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:04 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:05 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:05 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:33:06 America/Caracas] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 31
+[28-May-2021 19:35:15 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 35
+[28-May-2021 19:52:23 America/Caracas] PHP Notice:  Undefined property: SCA_EMP::$IS_EXIST in /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php on line 68
+[28-May-2021 19:52:23 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:69
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(69): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(73): Conexion->DETC_DB_BlindingDinamic('', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(44): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 69
+[28-May-2021 19:54:13 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:69
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(69): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(70): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(44): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 69
+[28-May-2021 19:56:21 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(70): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(44): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 19:59:20 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: 'umydrlstcyhdgkvgurtkdpjzpsloxlkq' for column `SCALA_SERVER`.`SCA_EMP`.`ACTIVE` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(71): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(44): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:04:10 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: 'hjsvluzwzbkhdcoitrdvukdfmbiuawir' for column `SCALA_SERVER`.`SCA_EMP`.`ACTIVE` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(71): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:05:51 America/Caracas] PHP Notice:  Trying to get property 'id' of non-object in /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php on line 36
+[28-May-2021 20:05:51 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'RIF' cannot be null in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(71): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:06:15 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: 'voxbpqfolniurmyrannvqfszxwxohrjd' for column `SCALA_SERVER`.`SCA_EMP`.`ACTIVE` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(71): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:08:02 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: 'dgmalqxfsrltftbtwlzsfpzoucexwsxv' for column `SCALA_SERVER`.`SCA_EMP`.`PrimaryUser` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(70): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:08:58 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: 'zxobfuayqqrqoczineppfuuxxqpdiyid' for column `SCALA_SERVER`.`SCA_EMP`.`PrimaryUser` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(70): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:14:37 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: 'moayfbvuhqioazlhrrbfswvpyezsodxv' for column `SCALA_SERVER`.`SCA_EMP`.`PrimaryUser` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(70): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:17:10 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: 'ilsppfmnsrujfbjszwdwsyusiidqmitw' for column `SCALA_SERVER`.`SCA_EMP`.`LAST_SEEN` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(66): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:17:52 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: 'yzbvjkbhzxrwuaagkfwlvmmkptywjync' for column `SCALA_SERVER`.`SCA_EMP`.`LAST_SEEN` at row 1 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:70
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(70): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/SCA_EMP.php(66): Conexion->DETC_DB_BlindingDinamic('UPDATE `SCA_EMP...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(45): SCA_EMP->Save()
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 70
+[28-May-2021 20:32:52 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code on line 1
+[28-May-2021 20:32:52 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code on line 1
+[28-May-2021 20:34:55 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code on line 1
+[28-May-2021 20:34:55 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code on line 1
+[28-May-2021 20:35:02 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code on line 1
+[28-May-2021 20:35:02 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(75) : eval()'d code on line 1
+[28-May-2021 20:35:03 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:35:03 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:16 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:16 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:17 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:17 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:18 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:18 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:18 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:18 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:19 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:19 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:19 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:19 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:20 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:20 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:21 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:21 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:22 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:22 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:22 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:22 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(77) : eval()'d code on line 1
+[28-May-2021 20:36:28 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:36:28 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:28 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:28 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:36:28 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:28 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:29 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:36:29 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:29 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:29 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:36:29 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:29 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:30 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:36:30 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:30 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:38 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:36:38 America/Caracas] PHP Warning:  Use of undefined constant nlruhredhsvvagbsbkqgtzxfruikhgsy - assumed 'nlruhredhsvvagbsbkqgtzxfruikhgsy' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:36:38 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('nlruhredhsvvagb...')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:43:01 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:43:01 America/Caracas] PHP Warning:  Use of undefined constant TEST - assumed 'TEST' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:43:01 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('TEST')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:43:47 America/Caracas] PHP Notice:  Undefined variable: $blind0 in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 71
+[28-May-2021 20:43:47 America/Caracas] PHP Warning:  Use of undefined constant TEST - assumed 'TEST' (this will throw an Error in a future version of PHP) in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:43:47 America/Caracas] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code:1
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78): eval()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('TEST')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(78) : eval()'d code on line 1
+[28-May-2021 20:44:01 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:79
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(79): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('TEST')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 79
+[28-May-2021 20:44:20 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:79
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(79): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('TEST')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 79
+[28-May-2021 20:45:08 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php:79
+Stack trace:
+#0 /home/scalasof/public_html/SCA_SERVER/class/Conexion.php(79): PDOStatement->execute()
+#1 /home/scalasof/public_html/SCA_SERVER/class/Core.php(61): Conexion->DETC_DB_BlindingDinamic('SELECT * FROM S...', Array)
+#2 /home/scalasof/public_html/SCA_SERVER/Refresh.Server.php(18): Core->GetIdByToken('TEST')
+#3 {main}
+  thrown in /home/scalasof/public_html/SCA_SERVER/class/Conexion.php on line 79

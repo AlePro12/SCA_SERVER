@@ -1,0 +1,26 @@
+Aqui estaran los archivos necesarios para que funcione la aplicacion de pedidos.
+
+Base de Datos de los clientes 
+
+ID = ID DE CLIENTE
+	
+RIF = RIF DEL CLIENTE	
+
+EMPNAME	= NOMBRE DE LA EMPRESA
+
+TOKEN = AUTENTICADOR TOKEN
+
+PUBLIC_IP = IP PUBLICA	
+
+PRIVATE_IP = IP PRIVADA
+
+URL = URL DEL CLIENTE
+	
+ACTIVE = SI ESTA ACTIVO EL SERVICIO A ESE CLIENTE
+
+Codigos de errors
+
+10 = Error de parametros
+11 = Usuario o contrasena invalidos
+12 = Empresa Invalida
+13 = Acceso denegado a esa empresa
